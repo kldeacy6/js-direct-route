@@ -55,7 +55,7 @@
     "dependencies": {
         "@node-real/web3-core": "1.0.8",
         "@node-real/web3-eth": "1.0.8",
-        "web3-bzz": "1.5.1",
+        "web3-bzz": "1.9.0",
         "web3-eth-personal": "1.5.1",
         "web3-net": "1.5.1",
         "web3-shh": "1.5.1",
